@@ -6,10 +6,10 @@
 
 <sup>1</sup>NIMISHES Lab, Dhaka, Bangladesh &nbsp;&nbsp; <sup>2</sup>Texas Tech University &nbsp;&nbsp; <sup>3</sup>American University of Sharjah
 
-*FABRIC 2027 · Workshop on Foundation AI for Biomedical Reasoning, Imaging, and Cognition*
+*WACVW 2027 · Workshop on Foundation AI for Biomedical Reasoning, Imaging, and Cognition*
 
 [![arXiv](https://img.shields.io/badge/arXiv-2610.40913-b31b1b.svg)](https://arxiv.org/abs/2610.40913)
-![FABRIC 2027](https://img.shields.io/badge/FABRIC-2027-1f6feb.svg)
+![WACVW 2027](https://img.shields.io/badge/WACVW-2027-1f6feb.svg)
 ![Python 3.12](https://img.shields.io/badge/Python-3.12-3776AB.svg?logo=python&logoColor=white)
 ![PyTorch 2.6](https://img.shields.io/badge/PyTorch-2.6-EE4C2C.svg?logo=pytorch&logoColor=white)
 
